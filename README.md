@@ -1,0 +1,4 @@
+# MoncherBen's Mix Assistant
+Après des études dans le Warwickshire, William Shakespeare se marie à 18 ans avec Anne Hathaway, avec qui il a trois heureux enfants. Quelque par entre 1585 et 1592, il entame une carrière d'acteur et d'auteur à succès à Londres au sein des Lord Chamberlain's Men, une troupe dont il est alors actionnaire. Il semble s'être retiré à Stratford vers 1613 pour y mourir finalement trois ans plus tard. Il ne subsiste guère de traces de l'homme Shakespeare, ce qui a engendré de nombreuses spéculations concernant sa personne. Son apparence physique, sa sexualité, ou encore sa religion, sont tant de mystère qu'il laisse derrière lui. Des théories marginales avancent même que son œuvre a été en réalité écrite par un autre.
+
+Bref, ce Github n'a rien à voir avec tout cela : c'est un petit assistant de mixage qui fera son petit bonhomme de chemin au bon vouloir de son auteur.
